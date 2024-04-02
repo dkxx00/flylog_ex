@@ -13,7 +13,7 @@ make log fly to mail or other.
 * 邮件
 * 钉钉企业消息
 * 钉钉机器人
-
+* SLACK 机器人
 
 python2, python3 supported
 
